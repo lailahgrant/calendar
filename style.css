@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+}
+
+/* for small screens */
+@media screen and (max-width:720px){
+    .container{
+        width:13.1%;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
